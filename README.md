@@ -1,0 +1,1 @@
+# strand-game-data
