@@ -1,0 +1,26 @@
+# Environment variables
+.env
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Output files
+steam_library.csv
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo

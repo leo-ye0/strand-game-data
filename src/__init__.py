@@ -1,0 +1,3 @@
+"""
+Steam Stats Agent package.
+"""
