@@ -198,7 +198,7 @@ You > which games haven't I played yet?
 You > what have I played recently?
 ```
 ![chat example1](./images/chat_hist_1.png)
-![chat example2](./images/chat_hist_2.png)
+![chat example2](./images/chat_hist_3.png)
 
 ## Finding Your Steam ID
 
